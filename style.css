@@ -1,0 +1,24 @@
+/* Reset default spacing */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Page styling */
+body {
+    font-family: Arial, sans-serif;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightgray;
+}
+
+/* Heading styling */
+h1 {
+    padding: 20px 40px;
+    border: 2px solid black;
+    background-color: white;
+    text-align: center;
+}
